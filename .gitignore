@@ -1,0 +1,6 @@
+.idea
+.gitignore
+.idea/
+javacv-demo.iml
+src/main/resources/
+target/
